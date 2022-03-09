@@ -1,0 +1,58 @@
+D:\大三上\数据库课设\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.csprojAssemblyReference.cache
+D:\大三上\数据库课设\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.Form1.resources
+D:\大三上\数据库课设\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.Form2.resources
+D:\大三上\数据库课设\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.Form3.resources
+D:\大三上\数据库课设\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.Form4.resources
+D:\大三上\数据库课设\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.Properties.Resources.resources
+D:\大三上\数据库课设\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.csproj.GenerateResource.cache
+D:\大三上\数据库课设\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.csproj.CoreCompileInputs.cache
+D:\大三上\数据库课设\housemanagesystem\housemanagesystem\bin\Debug\housemanagesystem.exe.config
+D:\大三上\数据库课设\housemanagesystem\housemanagesystem\bin\Debug\housemanagesystem.exe
+D:\大三上\数据库课设\housemanagesystem\housemanagesystem\bin\Debug\housemanagesystem.pdb
+D:\大三上\数据库课设\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.CompanyFinance.resources
+D:\大三上\数据库课设\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.Form5.resources
+D:\大三上\数据库课设\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.Lifeexpenses.resources
+D:\大三上\数据库课设\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.Rent.resources
+D:\大三上\数据库课设\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.Roominf.resources
+D:\大三上\数据库课设\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.Userinf.resources
+D:\大三上\数据库课设\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.exe
+D:\大三上\数据库课设\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.pdb
+C:\Users\ys\Desktop\期中检查（杨硕 张国庆 龚鹤洋）\housemanagesystem\housemanagesystem\bin\Debug\housemanagesystem.exe.config
+C:\Users\ys\Desktop\期中检查（杨硕 张国庆 龚鹤洋）\housemanagesystem\housemanagesystem\bin\Debug\housemanagesystem.exe
+C:\Users\ys\Desktop\期中检查（杨硕 张国庆 龚鹤洋）\housemanagesystem\housemanagesystem\bin\Debug\housemanagesystem.pdb
+C:\Users\ys\Desktop\期中检查（杨硕 张国庆 龚鹤洋）\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.csproj.AssemblyReference.cache
+C:\Users\ys\Desktop\期中检查（杨硕 张国庆 龚鹤洋）\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.CompanyFinance.resources
+C:\Users\ys\Desktop\期中检查（杨硕 张国庆 龚鹤洋）\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.Form1.resources
+C:\Users\ys\Desktop\期中检查（杨硕 张国庆 龚鹤洋）\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.Form2.resources
+C:\Users\ys\Desktop\期中检查（杨硕 张国庆 龚鹤洋）\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.Form3.resources
+C:\Users\ys\Desktop\期中检查（杨硕 张国庆 龚鹤洋）\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.Form4.resources
+C:\Users\ys\Desktop\期中检查（杨硕 张国庆 龚鹤洋）\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.Form5.resources
+C:\Users\ys\Desktop\期中检查（杨硕 张国庆 龚鹤洋）\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.Lifeexpenses.resources
+C:\Users\ys\Desktop\期中检查（杨硕 张国庆 龚鹤洋）\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.Properties.Resources.resources
+C:\Users\ys\Desktop\期中检查（杨硕 张国庆 龚鹤洋）\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.Rent.resources
+C:\Users\ys\Desktop\期中检查（杨硕 张国庆 龚鹤洋）\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.Roominf.resources
+C:\Users\ys\Desktop\期中检查（杨硕 张国庆 龚鹤洋）\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.Userinf.resources
+C:\Users\ys\Desktop\期中检查（杨硕 张国庆 龚鹤洋）\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.csproj.GenerateResource.cache
+C:\Users\ys\Desktop\期中检查（杨硕 张国庆 龚鹤洋）\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.csproj.CoreCompileInputs.cache
+C:\Users\ys\Desktop\期中检查（杨硕 张国庆 龚鹤洋）\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.exe
+C:\Users\ys\Desktop\期中检查（杨硕 张国庆 龚鹤洋）\housemanagesystem\housemanagesystem\obj\Debug\housemanagesystem.pdb
+D:\File\project\C#\房屋租赁管理系统\housemanagesystem\bin\Debug\housemanagesystem.exe.config
+D:\File\project\C#\房屋租赁管理系统\housemanagesystem\bin\Debug\housemanagesystem.exe
+D:\File\project\C#\房屋租赁管理系统\housemanagesystem\bin\Debug\housemanagesystem.pdb
+D:\File\project\C#\房屋租赁管理系统\housemanagesystem\obj\Debug\housemanagesystem.csproj.AssemblyReference.cache
+D:\File\project\C#\房屋租赁管理系统\housemanagesystem\obj\Debug\housemanagesystem.csproj.SuggestedBindingRedirects.cache
+D:\File\project\C#\房屋租赁管理系统\housemanagesystem\obj\Debug\housemanagesystem.CompanyFinance.resources
+D:\File\project\C#\房屋租赁管理系统\housemanagesystem\obj\Debug\housemanagesystem.Login.resources
+D:\File\project\C#\房屋租赁管理系统\housemanagesystem\obj\Debug\housemanagesystem.MainWindow.resources
+D:\File\project\C#\房屋租赁管理系统\housemanagesystem\obj\Debug\housemanagesystem.Manager.resources
+D:\File\project\C#\房屋租赁管理系统\housemanagesystem\obj\Debug\housemanagesystem.UnitPrice.resources
+D:\File\project\C#\房屋租赁管理系统\housemanagesystem\obj\Debug\housemanagesystem.ChangePWD.resources
+D:\File\project\C#\房屋租赁管理系统\housemanagesystem\obj\Debug\housemanagesystem.Lifeexpenses.resources
+D:\File\project\C#\房屋租赁管理系统\housemanagesystem\obj\Debug\housemanagesystem.Properties.Resources.resources
+D:\File\project\C#\房屋租赁管理系统\housemanagesystem\obj\Debug\housemanagesystem.Rent.resources
+D:\File\project\C#\房屋租赁管理系统\housemanagesystem\obj\Debug\housemanagesystem.Roominf.resources
+D:\File\project\C#\房屋租赁管理系统\housemanagesystem\obj\Debug\housemanagesystem.Userinf.resources
+D:\File\project\C#\房屋租赁管理系统\housemanagesystem\obj\Debug\housemanagesystem.csproj.GenerateResource.cache
+D:\File\project\C#\房屋租赁管理系统\housemanagesystem\obj\Debug\housemanagesystem.csproj.CoreCompileInputs.cache
+D:\File\project\C#\房屋租赁管理系统\housemanagesystem\obj\Debug\housemanagesystem.exe
+D:\File\project\C#\房屋租赁管理系统\housemanagesystem\obj\Debug\housemanagesystem.pdb
